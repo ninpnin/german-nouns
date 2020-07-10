@@ -1,9 +1,9 @@
 # German nouns
 
-Use neural networks to predict the grammatical gender of German nouns.
+Use neural networks to predict the grammatical gender of German nouns. The models are built with TensorFlow 2.2.
 
-Architectures:
+Model architectures:
 
 * [x] Feedforward neural network
-* [ ] LSTM
+* [ ] LSTM (char level)
 * [ ] Convolutional neural network?
